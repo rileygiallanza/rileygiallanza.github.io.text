@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://rileygiallanza/rileygiallanza.github.io/sitemap.xml
