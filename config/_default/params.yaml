@@ -82,7 +82,7 @@ highlight_languages:
 math: false
 diagram: false
 privacy_pack: false
-#edit_page:
+blogedit_page:
   repo_url: ''
   content_dir: ''
   repo_branch: main
@@ -101,7 +101,7 @@ reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: true
-#copyright_license:
+copyright_license:
   enable: false
   allow_derivatives: false
   share_alike: true
@@ -122,7 +122,7 @@ projects:
 breadcrumb:
   page_types:
     book: true
-#comments:
+comments:
   provider: ''
   commentable:
     post: true
