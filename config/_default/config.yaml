@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Riley Giallanza # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
+baseurl: 'https://rileygiallanza.github.io' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -68,3 +68,4 @@ related:
       weight: 100
     - name: categories
       weight: 70
+googleAnalytics: G-ZF60S2TG8K

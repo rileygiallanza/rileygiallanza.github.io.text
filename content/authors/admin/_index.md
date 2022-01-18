@@ -13,7 +13,6 @@ organizations:
 - name: Northeastern University
   
 
-
 # Interests to show in About widget
 interests:
 - Public Health

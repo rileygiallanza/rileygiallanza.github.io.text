@@ -1,5 +1,5 @@
 ---
-  title: Articles
+title: Articles
 layout: articles
 ---
   
